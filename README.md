@@ -1,7 +1,7 @@
 # INF - 122
 HELLO!!!!
 
-Name: Ruben JHilmar Laurel Plata
+Name: Ruben Jhilmar Laurel Plata
 
 Class: INF-122
 
